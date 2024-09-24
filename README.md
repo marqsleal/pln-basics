@@ -18,7 +18,7 @@ pip install -r requirements.txt
 git clone https://github.com/marqsleal/pln-basics.git
 ```
 
-2. Abra o arquivo `sentiment.py` dentro do ambiente python com as dependências instalas utilizando streamlit:
+2. Abra o arquivo `sentiment.py` dentro do ambiente python com as dependências instaladas utilizando streamlit:
 
 ```bash
 streamlit run sentiment.py
